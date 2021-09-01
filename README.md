@@ -2,9 +2,8 @@
 
 ### .NET intern.
 <br/>
-
-
-[![.NET Badge](https://img.shields.io/badge/.NET-DF1414?style=flat&logo=.net&logoColor=white)]
+<img alt="Discord" src="" />
+[![Discord Badge](https://img.shields.io/badge/Discord-DF1414?style=flat&logo=discord&logoColor=white&link=https://discord.gg/cbuVTtZTHE)](https://discord.gg/cbuVTtZTHE) 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-DF1414?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-santon-759198200/)](https://www.linkedin.com/in/matheus-santon-759198200/) 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-DF1414?style=flat&logo=gmail&logoColor=white&link=mailto:matheussantong.@gmail.com)](mailto:matheussantong@gmail.com)
 <br/>
