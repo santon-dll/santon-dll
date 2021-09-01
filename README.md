@@ -1,10 +1,10 @@
 # Hello, I'm Matheus! <img src="https://github.com/santon-dll/santon-dll/blob/main/assets/hello.gif" width="50"/>
 
-## .NET intern.
+### .NET intern.
 <br/>
 
-<img alt="Gmail" src="" />
-[.NET Badge](https://img.shields.io/badge/.NET-DF1414?style=flat&logo=.net&logoColor=white) 
+
+[![.NET Badge](https://img.shields.io/badge/.NET-DF1414?style=flat&logo=.net&logoColor=white)]
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-DF1414?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-santon-759198200/)](https://www.linkedin.com/in/matheus-santon-759198200/) 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-DF1414?style=flat&logo=gmail&logoColor=white&link=mailto:matheussantong.@gmail.com)](mailto:matheussantong@gmail.com)
 <br/>
