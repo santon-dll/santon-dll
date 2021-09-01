@@ -1,33 +1,21 @@
-# Hello, I'm Matheus! <img src="https://github.com/santon-dll/santon-dll/blob/main/assets/Prompt.gif" width="50"/>
+# Hello, I'm Matheus! <img src="https://github.com/santon-dll/santon-dll/blob/main/assets/Hello.gif" width="50"/>
 
-< !-- 
-
-<a href="https://discord.gg/TFuVjWPzzz">
-  <img align="left" alt="Aparecido Junior Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
-</a>
-<a href="https://twitter.com/aparecidojrr">
-  <img align="left" alt="Aparecido Junior Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.instagram.com/aparecido.jr/">
-  <img align="left" alt="Aparecido Junior Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+##.NET intern.
+<img alt="Gmail" src="" />
+[![.NET Badge](https://img.shields.io/badge/.NET-DF1414?style=flat&logo=.net&logoColor=white)] 
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-DF1414?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-santon-759198200/)](https://www.linkedin.com/in/matheus-santon-759198200/) 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-DF1414?style=flat&logo=gmail&logoColor=white&link=mailto:matheussantong.@gmail.com)](mailto:matheussantong@gmail.com)
 <br/>
 
-<h4>Hi, I'm Aparecido Junior, a student of system development from Brazil. I am currently trained as a mechanic technician, but I am addicted and passionate about system development, and I am always studying programming!</h4>
 
 ---
 
-<h5>Some personal stuffs:</h5>
+<h5><b>Personal stuff</b></h5>
 <ul>
-  <li>📗 The language I most dominate today is LUA;</li>
-  <li>📘 I want to learn a lot about C# and C++;</li>
-  <li>💬 Ask me about anything, you can contact me on <a href="https://www.facebook.com/aparecido.juninho.37/">Aparecido Junior</a>.</li>
+  <li>📕 Learning a lot about C# .NET features</li>
+  <li>📕 Ineterested in Python, IOT, and IA stuff</li>
+  <li>💬 Ask me about anything, or <a href="mailto:matheussantong.@gmail.com">e-mail me</a>.</li>
 </ul>
 
-<h5>I have knowledge in these languages:</h5>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png"></code>
-<code><img height="20" src="https://github.com/juninhoxked/juninhoxked/blob/main/assets/js.png"></code>
-<code><img height="20" src="https://github.com/juninhoxked/juninhoxked/blob/main/assets/html5.png"></code>
-<code><img height="20" src="https://github.com/juninhoxked/juninhoxked/blob/main/assets/css.png"></code>
+<h5><B>Skills</b></h5>
 
--- >
