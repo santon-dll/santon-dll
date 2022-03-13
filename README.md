@@ -10,7 +10,7 @@
   <img align="center" alt="matheussanton-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="matheussanton-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="matheussanton-dotnet" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
-  <img align="right" alt="matheussanton-pic" height="200" style="border-radius:50px;" src="https://media.discordapp.net/attachments/866475708625059870/952365667686961152/seilaperfilPRETO.jpg">
+  <img align="right" alt="matheussanton-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/866475708625059870/952365667686961152/seilaperfilPRETO.jpg">
 </div>
   
   ##
