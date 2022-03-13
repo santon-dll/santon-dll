@@ -1,4 +1,4 @@
-## C# Jr. Developer, Computer Engineering student, Interested in IT and UI/UX
+## C# Jr. Developer, Computer Engineering student, Interested in IT
 <div align="center">
   <a href="https://github.com/matheussanton">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheussanton&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
