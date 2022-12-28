@@ -1,4 +1,4 @@
-## C# Jr. Developer, Computer Engineering student, Interested in IT and UI/UX
+## C# Developer, Computer Engineering student, Interested in IT, AI and Top-Down Applications Building
 <div align="center">
   <a href="https://github.com/matheussanton">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=matheussanton&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -12,6 +12,7 @@
   <img align="center" alt="matheussanton-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="matheussanton-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" alt="matheussanton-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img align="center" alt="matheussanton-Postgre" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <img align="right" alt="matheussanton-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/933832873604182077/984466546992771092/download.png?width=563&height=563">
 </div>
   
