@@ -14,8 +14,8 @@
   <img align="center" alt="matheussanton-MongoDB" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
   <!--<img align="center" alt="matheussanton-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="matheussanton-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
- <img align="center" alt="matheussanton-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> -->
-  <img align="right" alt="matheussanton-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/933832873604182077/984466546992771092/download.png?width=563&height=563">
+ <img align="center" alt="matheussanton-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> 
+  <img align="right" alt="matheussanton-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/933832873604182077/984466546992771092/download.png?width=563&height=563">-->
 </div>
   
   ##
