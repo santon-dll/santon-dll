@@ -1,4 +1,4 @@
-## C# Developer, Computer Engineering student, Interested in IT, AI and Top-Down Applications Building
+## C# .NET Developer, Computer Engineer, Interested in IT, AI and Top-Down Applications Building
 <div align="center">
   <a href="https://github.com/matheussanton">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=matheussanton&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
